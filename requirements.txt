@@ -56,6 +56,7 @@ namex==0.0.8
 narwhals==1.27.1
 nest-asyncio==1.6.0
 networkx==3.4.2
+nltk==3.9.1
 numpy==2.0.2
 nvidia-cublas-cu12==12.4.5.8
 nvidia-cuda-cupti-cu12==12.4.127
