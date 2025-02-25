@@ -1,2 +1,4 @@
 venv/
 bert_*
+__pycache__
+tmp_trainer/
